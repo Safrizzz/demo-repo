@@ -1,7 +1,3 @@
 # Demo
 
-Some description!
-
-# subheader
-
-Hello !
+Some description
